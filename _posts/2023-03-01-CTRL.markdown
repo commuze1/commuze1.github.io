@@ -9,4 +9,6 @@ authors: "<strong>Junick Ahn</strong>, Daeyong Kim, Rhan Ha, Hojung Cha"
 venue: "IEEE Internet of Things Journal"
 
 ---
-We tackle state-of-charge imbalance issue when utilizing multicell batteries. Using reinforcement learning, we derive best switch configuration of battery usage at runtime.   
+
+Scheduling tasks in batteryless systems is challenging due to extreme variability in hardware, application and environment.
+We devise a reinforcement-learning based energy management scheme that can be applied to any batteryless system.   
