@@ -7,5 +7,17 @@ categories: research
 author: "JunIck Ahn"
 authors: "<strong>JunIck Ahn</strong>, Daeyong Kim, Hojung Cha"
 venue: "ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)"
+
+#layout: post
+#title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
+#date:   2023-08-28 22:21:59 +00:00
+#image: /images/3dgaussian.jpg
+#categories: research
+#author: "Leo Keselman"
+#authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+#venue: "arXiv"
+#arxiv: https://arxiv.org/abs/2308.14737
+#code: https://github.com/leonidk/fmb-plus
+#website: https://leonidk.github.io/fmb-plus
 ---
 We devise a mechanism which selects important parts in audio frames to compress transmission data. 
