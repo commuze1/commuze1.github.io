@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "PVoT: reconfigurable photovoltaic array for indoor light energy-powered batteryless devices"
+date:   2022-03-01 22:21:59 +00:00
+#image: /images/sedac_att.png
+categories: conference
+author: "JunIck Ahn"
+authors: "Jiwon Kim, Eunyeong Kim, Seunghyeok Jeon, <strong>Junick Ahn</strong>, Hyungchol Jun, Hojung Cha"
+venue: "International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)"
+
+---
+We propose a system that can reconfigure photovoltaic arrays based on the light conditions. 

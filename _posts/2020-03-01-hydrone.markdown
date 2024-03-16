@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hydrone: Reconfigurable energy storage for UAV applications"
+date:   2020-03-01 22:21:59 +00:00
+#image: /images/sedac_att.png
+categories: conference
+author: "JunIck Ahn"
+authors: "Jiwon Kim, Sungwoo Baek, Yonghun Choi, <strong>Junick Ahn</strong>, Hojung Cha"
+venue: "International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)"
+
+---
+Utilizing both chemical battery and supercapacitor, we devise a reconfigurable energy storage device that can handle high and dynamic current load targeting UAV. 

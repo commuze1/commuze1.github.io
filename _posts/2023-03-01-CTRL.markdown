@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Controlling action space of reinforcement-learning-based energy management in batteryless applications"
+date:   2023-03-01 22:21:59 +00:00
+#image: /images/sedac_att.png
+categories: journal
+author: "JunIck Ahn"
+authors: "<strong>Junick Ahn</strong>, Daeyong Kim, Rhan Ha, Hojung Cha"
+venue: "IEEE Internet of Things Journal"
+
+---
+We tackle state-of-charge imbalance issue when utilizing multicell batteries. Using reinforcement learning, we derive best switch configuration of battery usage at runtime.   

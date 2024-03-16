@@ -3,7 +3,7 @@ layout: post
 title:  "Split Learning-based Sound Event Detection in Energy-Constrained Sensor Devices"
 date:   2024-03-01 22:21:59 +00:00
 image: /images/sedac_att.png
-categories: research
+categories: conference
 author: "JunIck Ahn"
 authors: "<strong>JunIck Ahn</strong>, Daeyong Kim, Hojung Cha"
 venue: "ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)"
