@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Split Learning-based Sound Event Detection in Energy-Constrained Sensor Devices"
-date:   2024-05-01 22:21:59 +00:00
+date:   2024-03-01 22:21:59 +00:00
 image: /images/sedac_att.png
 categories: research
 author: "JunIck Ahn"
