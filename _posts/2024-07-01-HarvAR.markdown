@@ -9,4 +9,4 @@ authors: "Daeyong Kim, <strong>Junick Ahn</strong>, Jiwon Kim, Rhan Ha, Hojung C
 venue: "IEEE Internet of Things Journal"
 
 ---
-Dynamically changing photovoltaic harvesting capability in a given environment is estimated using RGBD data from mobile devices. We construct a digital twin from RGBD data to reconstruct 3D energy space, and recommend adequate sensor install locations.  
+We estimate dynamically changing photovoltaic harvesting capability in a given environment using mobile devices. We construct a digital twin from RGBD data from mobile devices, to reconstruct 3D energy space, and recommend adequate sensor install locations.  
