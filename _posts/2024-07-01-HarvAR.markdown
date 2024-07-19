@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "HarvAR: Mobile Augmented Reality-assisted Photovoltaic Energy Harvesting Sensor Management"
+date:   2024-07-01 22:21:59 +00:00
+#image: /images/sedac_att.png
+categories: journal
+author: "JunIck Ahn"
+authors: "Daeyong Kim, <strong>Junick Ahn</strong>, Jiwon Kim, Rhan Ha, Hojung Cha"
+venue: "IEEE Internet of Things Journal"
+
+---
+Dynamically changing photovoltaic harvesting capability in a given environment is estimated using RGBD data from mobile devices. We construct a digital twin from RGBD data to reconstruct 3D energy space, and recommend adequate sensor install locations.  
