@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Duration-Aware Sound Event Detection on Ultra-Low-Power Sensor Devices"
+date:   2025-10-09 22:21:59 +00:00
+categories: journal
+author: "Junick Ahn"
+authors: "Seonghoon Park, <strong>Junick Ahn</strong>, Daeyong Kim, Hojung Cha"
+venue: "ACM Transactions on Embedded Computing Systems (TECS)"
+
+---
+In this article, we propose DASH, a duration-aware SED system designed for energy-constrained sensor devices in domestic environments. As repeated inferences for continuous sound events lead to unnecessary energy consumption, DASH aims to minimize unnecessary inferences by predicting the duration of sound events.
